@@ -3,6 +3,8 @@
 The 5th App form  Angela Yu's Flutter course on Udemy.
 https://www.udemy.com/course/flutter-bootcamp-with-dart/learn/lecture/14483450#overview
 
+![screen_recording](https://user-images.githubusercontent.com/43631528/79187365-033ff880-7e57-11ea-8f93-b143b3b0744d.gif)
+
 ## Contents 
 - List.add (95)
 - List (https://dart.dev/guides/libraries/library-tour#collections) (95)
